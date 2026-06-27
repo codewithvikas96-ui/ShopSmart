@@ -210,8 +210,8 @@ This confirms the tree learned a genuinely sensible business rule: **engagement 
 ## 👤 Author
 
 **Vikas Ajay Vishwakarma**
-BSc IT Student | Aspiring Data Scientist
-🔗 [GitHub](https://github.com/codewithvikas96-ui) · [LinkedIn](#) · [Fiverr](#)
+BSc IT Student | Aspiring Data Scientist   
+🔗 [GitHub](https://github.com/codewithvikas96-ui) ·   
 
 ---
 
