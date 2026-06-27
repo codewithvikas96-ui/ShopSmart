@@ -13,19 +13,19 @@
 
 ## 📌 Overview
 
-Online stores lose conversions every day from sessions that *almost* turn into a sale — but never do. This project builds a **Decision Tree Classifier** that predicts, from in-session behavioral signals alone (page counts, time spent, bounce/exit rates, page value, etc.), whether a visitor's session will end in a purchase (`Revenue = True/False`). 
+Online stores lose conversions every day from sessions that *almost* turn into a sale — but never do. This project builds a **Decision Tree Classifier** that predicts, from in-session behavioral signals alone (page counts, time spent, bounce/exit rates, page value, etc.), whether a visitor's session will end in a purchase (`Revenue = True/False`).  
 
-The goal isn't just "get a good score" — it's to build a model that's genuinely **interpretable** (a key reason Decision Trees were chosen over a black-box model first), so a business stakeholder could trace *why* a session was flagged as high purchase-intent. 
+The goal isn't just "get a good score" — it's to build a model that's genuinely **interpretable** (a key reason Decision Trees were chosen over a black-box model first), so a business stakeholder could trace *why* a session was flagged as high purchase-intent.  
 
-> 💡 **Why this matters:** Real-time purchase-intent scoring like this can power exit-intent popups, targeted discounts, or live chat triggers — nudging high-intent sessions across the finish line instead of guessing blindly.
+> 💡 **Why this matters:** Real-time purchase-intent scoring like this can power exit-intent popups, targeted discounts, or live chat triggers — nudging high-intent sessions across the finish line instead of guessing blindly.  
 
 ---
 
 ## 📊 Dataset
 
-**Source:** [Online Shoppers Purchasing Intention Dataset](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset) (UCI Machine Learning Repository) 
-**File used:** `shop_smart_ecommerce.csv` 
-**Shape:** `12,330 rows × 18 columns` — zero missing values across the entire dataset. 
+**Source:** [Online Shoppers Purchasing Intention Dataset](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset) (UCI Machine Learning Repository)  
+**File used:** `shop_smart_ecommerce.csv`  
+**Shape:** `12,330 rows × 18 columns` — zero missing values across the entire dataset.   
 
 | Feature | Type | Description |
 |---|---|---|
